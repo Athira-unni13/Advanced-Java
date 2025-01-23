@@ -1,1 +1,3 @@
 # Advanced-Java
+
+This repositary contains the concepts in Advanced java. In this each code have some expalnation which will help you the understand more, the concepts include Strings,String Buffer,String Builder and StringTokenizer,Java Exception Handling->Types of exception,Exception propagation in java,try, catch & finally, Throw and Throws, User defined Exception, Java Multithreading->Thread fundamentals and life cycles, Thread class and Runnable interface,Synchronization,Thread Priorities,Inter thread communication,Java Collections Framework->Core interfaces in collections, List,Set,Hash Map and Hash Table, Sorting in collection,Comparable and Comparator interfaces,Java Input Output Streams,Java Regex,Design Patterns. 
